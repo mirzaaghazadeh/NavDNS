@@ -12,10 +12,10 @@ NavDNS is a simple DNS query tool built with Python.
 
  **Clone the Repository**:
  
-    ```bash
+   
     git clone https://github.com/mirzaaghazadeh/NavDNS.git
     cd NavDNS
-    ```
+    
 
 
 
